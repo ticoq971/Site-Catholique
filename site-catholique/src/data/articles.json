@@ -1,0 +1,130 @@
+
+
+[
+    {
+        "id": "1",
+        "title": "🕊️ Comment le Salut Est-Il Compris selon les Différentes Confessions Chrétiennes ?",
+        "image": "https://www.catholique.fr/wp-content/uploads/2023/10/jesus-christ-1.jpg",
+        "description": "Le salut est un sujet central dans le christianisme, mais il est compris de manière différente selon les différentes confessions chrétiennes. Cet article explore ces différences.",
+        "content": [
+          {
+            "section": "Ce sur quoi tous les chrétiens s'accordent:",
+            "points": [
+              "Tous les humains sont pécheurs.",
+              "Jésus-Christ, vrai Dieu et vrai homme, est mort pour nos péchés.",
+              "Le salut est possible uniquement par la foi en Jésus.",
+              "Ceux qui croient seront ressuscités pour la vie éternelle."
+            ]
+          },
+          {
+            "section": "Vue baptiste / évangélique",
+            "points": [
+              "Le salut repose sur une expérience de conversion personnelle («naître de nouveau»).",
+              "Le baptême n'est qu'un symbole, effectué après la conversion.",
+              "\"Une fois sauvé, toujours sauvé\" : ceux qui perdent la foi ne l’ont jamais vraiment eue."
+            ]
+          },
+          {
+            "section": "Vue luthérienne",
+            "points": [
+              "Le salut vient par la foi seule, mais le baptême et la Sainte Cène sont des moyens de grâce.",
+              "Le baptême (même des bébés) confère la foi, mais cette foi peut être perdue plus tard.",
+              "Les œuvres ne sauvent pas, mais la foi doit produire des fruits."
+            ]
+          },
+          {
+            "section": "Vue réformée / calviniste (presbytérienne)",
+            "points": [
+              "Le salut dépend de la prédestination de Dieu.",
+              "Le baptême des enfants est un signe d’appartenance à l’alliance, mais seul l’élu répondra à cette promesse par la foi.",
+              "Le salut est par la foi, seulement chez ceux que Dieu a prédestinés."
+            ]
+          },
+          {
+            "section": "Vue catholique",
+            "points": [
+              "Le salut est par la grâce de Dieu, reçue par la foi vivante (foi + œuvres intégrées).",
+              "Le baptême efface le péché originel.",
+              "Le péché mortel coupe de la grâce, restaurée par la confession.",
+              "Le purgatoire purifie les âmes avant leur entrée au paradis."
+            ]
+          },
+          {
+            "section": "Vue méthodiste (wesleyenne)",
+            "points": [
+              "Insistance sur le libre arbitre.",
+              "Deux étapes :",
+              "1. Justification (foi en Jésus)",
+              "2. Sanctification entière (perfection chrétienne possible dans cette vie)",
+              "Le salut peut être perdu si on abandonne la foi ou néglige la sanctification."
+            ]
+          },
+          {
+            "section": "Vue pentecôtiste",
+            "points": [
+              "1. Conversion",
+              "2. Sanctification",
+              "3. Baptême du Saint-Esprit, souvent accompagné du parler en langues.",
+              "On peut être chrétien sans être encore « rempli de l’Esprit ».",
+              "L’accent est mis sur les dons spirituels comme preuve du salut vécu."
+            ]
+          },
+          {
+            "section": "Vue orthodoxe orientale",
+            "points": [
+              "Préfère parler de 'théosis' : devenir semblable à Dieu par l’union mystique avec Lui.",
+              "Pas de distinction nette entre justification et sanctification.",
+              "Le salut est un processus, non une décision ponctuelle.",
+              "L’enfer et le paradis sont perçus comme la même réalité divine, vécue différemment selon notre état spirituel."
+            ]
+          }
+         
+        ],
+        
+        "date": "15/04/2025"
+      },
+    
+    {
+      "id": "2",
+      "title": "Premier article",
+      "content": "Ceci est le contenu de mon premier article",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "3",
+      "title": "Premier article",
+      "content": "Ceci est le contenu de mon premier article",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "3",
+      "title": "Premier article",
+      "content": "Ceci est le contenu de mon premier article",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "3",
+      "title": "Premier article",
+      "content": "Ceci est le contenu de mon premier article",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "3",
+      "title": "Premier article",
+      "content": "Ceci est le contenu de mon premier article",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "3",
+      "title": "Premier article",
+      "content": "Ceci est le contenu de mon premier article",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "3",
+      "title": "Premier article",
+      "content": "Ceci est le contenu de mon premier article",
+      "date": "2025-04-14"
+    }
+  ]
+  
