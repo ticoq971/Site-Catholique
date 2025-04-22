@@ -5,6 +5,7 @@
         "id": "1",
         "title": "🕊️ Comment le Salut Est-Il Compris selon les Différentes Confessions Chrétiennes ?",
         "image": "https://www.catholique.fr/wp-content/uploads/2023/10/jesus-christ-1.jpg",
+        "category": "Oecuménisme",
         "description": "Le salut est un sujet central dans le christianisme, mais il est compris de manière différente selon les différentes confessions chrétiennes. Cet article explore ces différences.",
         "content": [
           {
@@ -83,48 +84,394 @@
         
         "date": "15/04/2025"
       },
+      {
+        "id": "2",
+        "title": "🕊️ Le Purgatoire – Carte mentale pour mieux comprendre",
+        "image": "https://www.catholique.fr/wp-content/uploads/2023/10/jesus-christ-1.jpg",
+        "category": "Doctrine",
+        "description": "Le salut est un sujet central dans le christianisme, mais il est compris de manière différente selon les différentes confessions chrétiennes. Cet article explore ces différences.",
+        "content": [
+          {
+            "section": "1. C’est quoi le Purgatoire ?",
+            "points": [
+              "Un état de purification après la mort",
+              "Pour les âmes sauvées, mais qui ne sont pas encore prêtes à entrer au Ciel",
+              "Une seconde chance : ceux qui vont au Purgatoire sont déjà sauvés !",
+              "🔥 Ce n’est ni l’enfer, ni le paradis, mais une étape vers le paradis."
+            ]
+          },
+          {
+            "section": "Pourquoi existe-t-il ?",
+            "points": [
+              "Dieu est parfaitement pur et saint",
+              "Pour être avec Lui, il faut être totalement purifié du péché",
+              "Même si Dieu pardonne nos péchés, il peut rester des conséquences à purifier (attache au péché, manque d’amour…)"
+            ]
+          },
+          {
+            "section": "Qui va au Purgatoire ?",
+            "points": [
+              "Les chrétiens qui meurent en état de grâce (en amitié avec Dieu)",
+              "Mais qui ont encore besoin de guérison spirituelle",
+              "Exemple : quelqu’un qui aime Dieu, mais a encore de l’orgueil ou n’a pas tout réparé"
+            ]
+          },
+          {
+            "section": "Que s’y passe-t-il ?",
+            "points": [
+              "Une purification douloureuse, mais remplie d’espérance",
+              "L’âme est purifiée par l’amour de Dieu",
+              "C’est un feu d’amour qui guérit, pas qui détruit",
+              "✝️ Le Catéchisme dit : « Ce feu est bienheureux, car il conduit à Dieu. »"
+            ]
+          },
+          {
+            "section": "Comment aider les âmes du Purgatoire ?",
+            "points": [
+              "Prier pour elles (messe, chapelet, indulgences)",
+              "Offrir nos souffrances et sacrifices",
+              "C’est un acte de charité : elles ne peuvent plus prier pour elles-mêmes",
+              "💬 “Priez pour les morts, c’est un acte de miséricorde.”"
+            ]
+          }
+        ],
+        "date": "15/04/2025"
+      },
+      
+      
+    {
+        "id": "3",
+        "title": "🕊️ Comment le Salut",
+        "image": "https://www.catholique.fr/wp-content/uploads/2023/10/jesus-christ-1.jpg",
+        "category": "Oecuménisme",
+        "description": "Le salut est un sujet central dans le christianisme, mais il est compris de manière différente selon les différentes confessions chrétiennes. Cet article explore ces différences.",
+        "content": [
+          {
+            "section": "Ce sur quoi tous les chrétiens s'accordent:",
+            "points": [
+              "Tous les humains sont pécheurs.",
+              "Jésus-Christ, vrai Dieu et vrai homme, est mort pour nos péchés.",
+              "Le salut est possible uniquement par la foi en Jésus.",
+              "Ceux qui croient seront ressuscités pour la vie éternelle."
+            ]
+          },
+          {
+            "section": "Vue baptiste / évangélique",
+            "points": [
+              "Le salut repose sur une expérience de conversion personnelle («naître de nouveau»).",
+              "Le baptême n'est qu'un symbole, effectué après la conversion.",
+              "\"Une fois sauvé, toujours sauvé\" : ceux qui perdent la foi ne l’ont jamais vraiment eue."
+            ]
+          },
+          {
+            "section": "Vue luthérienne",
+            "points": [
+              "Le salut vient par la foi seule, mais le baptême et la Sainte Cène sont des moyens de grâce.",
+              "Le baptême (même des bébés) confère la foi, mais cette foi peut être perdue plus tard.",
+              "Les œuvres ne sauvent pas, mais la foi doit produire des fruits."
+            ]
+          },
+          {
+            "section": "Vue réformée / calviniste (presbytérienne)",
+            "points": [
+              "Le salut dépend de la prédestination de Dieu.",
+              "Le baptême des enfants est un signe d’appartenance à l’alliance, mais seul l’élu répondra à cette promesse par la foi.",
+              "Le salut est par la foi, seulement chez ceux que Dieu a prédestinés."
+            ]
+          },
+          {
+            "section": "Vue catholique",
+            "points": [
+              "Le salut est par la grâce de Dieu, reçue par la foi vivante (foi + œuvres intégrées).",
+              "Le baptême efface le péché originel.",
+              "Le péché mortel coupe de la grâce, restaurée par la confession.",
+              "Le purgatoire purifie les âmes avant leur entrée au paradis."
+            ]
+          },
+          {
+            "section": "Vue méthodiste (wesleyenne)",
+            "points": [
+              "Insistance sur le libre arbitre.",
+              "Deux étapes :",
+              "1. Justification (foi en Jésus)",
+              "2. Sanctification entière (perfection chrétienne possible dans cette vie)",
+              "Le salut peut être perdu si on abandonne la foi ou néglige la sanctification."
+            ]
+          },
+          {
+            "section": "Vue pentecôtiste",
+            "points": [
+              "1. Conversion",
+              "2. Sanctification",
+              "3. Baptême du Saint-Esprit, souvent accompagné du parler en langues.",
+              "On peut être chrétien sans être encore « rempli de l’Esprit ».",
+              "L’accent est mis sur les dons spirituels comme preuve du salut vécu."
+            ]
+          },
+          {
+            "section": "Vue orthodoxe orientale",
+            "points": [
+              "Préfère parler de 'théosis' : devenir semblable à Dieu par l’union mystique avec Lui.",
+              "Pas de distinction nette entre justification et sanctification.",
+              "Le salut est un processus, non une décision ponctuelle.",
+              "L’enfer et le paradis sont perçus comme la même réalité divine, vécue différemment selon notre état spirituel."
+            ]
+          }
+         
+        ],
+        
+        "date": "15/04/2025"
+      },
+    {
+        "id": "4",
+        "title": " Comment ",
+        "image": "https://www.catholique.fr/wp-content/uploads/2023/10/jesus-christ-1.jpg",
+        "category": "Apologétique",
+        "description": "Le salut est un sujet central dans le christianisme, mais il est compris de manière différente selon les différentes confessions chrétiennes. Cet article explore ces différences.",
+        "content": [
+          {
+            "section": "Ce sur quoi tous les chrétiens s'accordent:",
+            "points": [
+              "Tous les humains sont pécheurs.",
+              "Jésus-Christ, vrai Dieu et vrai homme, est mort pour nos péchés.",
+              "Le salut est possible uniquement par la foi en Jésus.",
+              "Ceux qui croient seront ressuscités pour la vie éternelle."
+            ]
+          },
+          {
+            "section": "Vue baptiste / évangélique",
+            "points": [
+              "Le salut repose sur une expérience de conversion personnelle («naître de nouveau»).",
+              "Le baptême n'est qu'un symbole, effectué après la conversion.",
+              "\"Une fois sauvé, toujours sauvé\" : ceux qui perdent la foi ne l’ont jamais vraiment eue."
+            ]
+          },
+          {
+            "section": "Vue luthérienne",
+            "points": [
+              "Le salut vient par la foi seule, mais le baptême et la Sainte Cène sont des moyens de grâce.",
+              "Le baptême (même des bébés) confère la foi, mais cette foi peut être perdue plus tard.",
+              "Les œuvres ne sauvent pas, mais la foi doit produire des fruits."
+            ]
+          },
+          {
+            "section": "Vue réformée / calviniste (presbytérienne)",
+            "points": [
+              "Le salut dépend de la prédestination de Dieu.",
+              "Le baptême des enfants est un signe d’appartenance à l’alliance, mais seul l’élu répondra à cette promesse par la foi.",
+              "Le salut est par la foi, seulement chez ceux que Dieu a prédestinés."
+            ]
+          },
+          {
+            "section": "Vue catholique",
+            "points": [
+              "Le salut est par la grâce de Dieu, reçue par la foi vivante (foi + œuvres intégrées).",
+              "Le baptême efface le péché originel.",
+              "Le péché mortel coupe de la grâce, restaurée par la confession.",
+              "Le purgatoire purifie les âmes avant leur entrée au paradis."
+            ]
+          },
+          {
+            "section": "Vue méthodiste (wesleyenne)",
+            "points": [
+              "Insistance sur le libre arbitre.",
+              "Deux étapes :",
+              "1. Justification (foi en Jésus)",
+              "2. Sanctification entière (perfection chrétienne possible dans cette vie)",
+              "Le salut peut être perdu si on abandonne la foi ou néglige la sanctification."
+            ]
+          },
+          {
+            "section": "Vue pentecôtiste",
+            "points": [
+              "1. Conversion",
+              "2. Sanctification",
+              "3. Baptême du Saint-Esprit, souvent accompagné du parler en langues.",
+              "On peut être chrétien sans être encore « rempli de l’Esprit ».",
+              "L’accent est mis sur les dons spirituels comme preuve du salut vécu."
+            ]
+          },
+          {
+            "section": "Vue orthodoxe orientale",
+            "points": [
+              "Préfère parler de 'théosis' : devenir semblable à Dieu par l’union mystique avec Lui.",
+              "Pas de distinction nette entre justification et sanctification.",
+              "Le salut est un processus, non une décision ponctuelle.",
+              "L’enfer et le paradis sont perçus comme la même réalité divine, vécue différemment selon notre état spirituel."
+            ]
+          }
+         
+        ],
+        
+        "date": "15/04/2025"
+      },
+    {
+        "id": "5",
+        "title": "🕊️ Comment le Salut Est-Il Compris selon les Différentes Confessions Chrétiennes ?",
+        "image": "https://www.catholique.fr/wp-content/uploads/2023/10/jesus-christ-1.jpg",
+        "category": "Oecuménisme",
+        "description": "Le salut est un sujet central dans le christianisme, mais il est compris de manière différente selon les différentes confessions chrétiennes. Cet article explore ces différences.",
+        "content": [
+          {
+            "section": "Ce sur quoi tous les chrétiens s'accordent:",
+            "points": [
+              "Tous les humains sont pécheurs.",
+              "Jésus-Christ, vrai Dieu et vrai homme, est mort pour nos péchés.",
+              "Le salut est possible uniquement par la foi en Jésus.",
+              "Ceux qui croient seront ressuscités pour la vie éternelle."
+            ]
+          },
+          {
+            "section": "Vue baptiste / évangélique",
+            "points": [
+              "Le salut repose sur une expérience de conversion personnelle («naître de nouveau»).",
+              "Le baptême n'est qu'un symbole, effectué après la conversion.",
+              "\"Une fois sauvé, toujours sauvé\" : ceux qui perdent la foi ne l’ont jamais vraiment eue."
+            ]
+          },
+          {
+            "section": "Vue luthérienne",
+            "points": [
+              "Le salut vient par la foi seule, mais le baptême et la Sainte Cène sont des moyens de grâce.",
+              "Le baptême (même des bébés) confère la foi, mais cette foi peut être perdue plus tard.",
+              "Les œuvres ne sauvent pas, mais la foi doit produire des fruits."
+            ]
+          },
+          {
+            "section": "Vue réformée / calviniste (presbytérienne)",
+            "points": [
+              "Le salut dépend de la prédestination de Dieu.",
+              "Le baptême des enfants est un signe d’appartenance à l’alliance, mais seul l’élu répondra à cette promesse par la foi.",
+              "Le salut est par la foi, seulement chez ceux que Dieu a prédestinés."
+            ]
+          },
+          {
+            "section": "Vue catholique",
+            "points": [
+              "Le salut est par la grâce de Dieu, reçue par la foi vivante (foi + œuvres intégrées).",
+              "Le baptême efface le péché originel.",
+              "Le péché mortel coupe de la grâce, restaurée par la confession.",
+              "Le purgatoire purifie les âmes avant leur entrée au paradis."
+            ]
+          },
+          {
+            "section": "Vue méthodiste (wesleyenne)",
+            "points": [
+              "Insistance sur le libre arbitre.",
+              "Deux étapes :",
+              "1. Justification (foi en Jésus)",
+              "2. Sanctification entière (perfection chrétienne possible dans cette vie)",
+              "Le salut peut être perdu si on abandonne la foi ou néglige la sanctification."
+            ]
+          },
+          {
+            "section": "Vue pentecôtiste",
+            "points": [
+              "1. Conversion",
+              "2. Sanctification",
+              "3. Baptême du Saint-Esprit, souvent accompagné du parler en langues.",
+              "On peut être chrétien sans être encore « rempli de l’Esprit ».",
+              "L’accent est mis sur les dons spirituels comme preuve du salut vécu."
+            ]
+          },
+          {
+            "section": "Vue orthodoxe orientale",
+            "points": [
+              "Préfère parler de 'théosis' : devenir semblable à Dieu par l’union mystique avec Lui.",
+              "Pas de distinction nette entre justification et sanctification.",
+              "Le salut est un processus, non une décision ponctuelle.",
+              "L’enfer et le paradis sont perçus comme la même réalité divine, vécue différemment selon notre état spirituel."
+            ]
+          }
+         
+        ],
+        
+        "date": "15/04/2025"
+      },
+    {
+        "id": "6",
+        "title": "🕊️ Comment le Salut Est-Il Compris selon les Différentes Confessions Chrétiennes ?",
+        "image": "https://www.catholique.fr/wp-content/uploads/2023/10/jesus-christ-1.jpg",
+        "category": "Jésus",
+        "description": "Le salut est un sujet central dans le christianisme, mais il est compris de manière différente selon les différentes confessions chrétiennes. Cet article explore ces différences.",
+        "content": [
+          {
+            "section": "Ce sur quoi tous les chrétiens s'accordent:",
+            "points": [
+              "Tous les humains sont pécheurs.",
+              "Jésus-Christ, vrai Dieu et vrai homme, est mort pour nos péchés.",
+              "Le salut est possible uniquement par la foi en Jésus.",
+              "Ceux qui croient seront ressuscités pour la vie éternelle."
+            ]
+          },
+          {
+            "section": "Vue baptiste / évangélique",
+            "points": [
+              "Le salut repose sur une expérience de conversion personnelle («naître de nouveau»).",
+              "Le baptême n'est qu'un symbole, effectué après la conversion.",
+              "\"Une fois sauvé, toujours sauvé\" : ceux qui perdent la foi ne l’ont jamais vraiment eue."
+            ]
+          },
+          {
+            "section": "Vue luthérienne",
+            "points": [
+              "Le salut vient par la foi seule, mais le baptême et la Sainte Cène sont des moyens de grâce.",
+              "Le baptême (même des bébés) confère la foi, mais cette foi peut être perdue plus tard.",
+              "Les œuvres ne sauvent pas, mais la foi doit produire des fruits."
+            ]
+          },
+          {
+            "section": "Vue réformée / calviniste (presbytérienne)",
+            "points": [
+              "Le salut dépend de la prédestination de Dieu.",
+              "Le baptême des enfants est un signe d’appartenance à l’alliance, mais seul l’élu répondra à cette promesse par la foi.",
+              "Le salut est par la foi, seulement chez ceux que Dieu a prédestinés."
+            ]
+          },
+          {
+            "section": "Vue catholique",
+            "points": [
+              "Le salut est par la grâce de Dieu, reçue par la foi vivante (foi + œuvres intégrées).",
+              "Le baptême efface le péché originel.",
+              "Le péché mortel coupe de la grâce, restaurée par la confession.",
+              "Le purgatoire purifie les âmes avant leur entrée au paradis."
+            ]
+          },
+          {
+            "section": "Vue méthodiste (wesleyenne)",
+            "points": [
+              "Insistance sur le libre arbitre.",
+              "Deux étapes :",
+              "1. Justification (foi en Jésus)",
+              "2. Sanctification entière (perfection chrétienne possible dans cette vie)",
+              "Le salut peut être perdu si on abandonne la foi ou néglige la sanctification."
+            ]
+          },
+          {
+            "section": "Vue pentecôtiste",
+            "points": [
+              "1. Conversion",
+              "2. Sanctification",
+              "3. Baptême du Saint-Esprit, souvent accompagné du parler en langues.",
+              "On peut être chrétien sans être encore « rempli de l’Esprit ».",
+              "L’accent est mis sur les dons spirituels comme preuve du salut vécu."
+            ]
+          },
+          {
+            "section": "Vue orthodoxe orientale",
+            "points": [
+              "Préfère parler de 'théosis' : devenir semblable à Dieu par l’union mystique avec Lui.",
+              "Pas de distinction nette entre justification et sanctification.",
+              "Le salut est un processus, non une décision ponctuelle.",
+              "L’enfer et le paradis sont perçus comme la même réalité divine, vécue différemment selon notre état spirituel."
+            ]
+          }
+         
+        ],
+        
+        "date": "15/04/2025"
+      }
     
-    {
-      "id": "2",
-      "title": "Premier article",
-      "content": "Ceci est le contenu de mon premier article",
-      "date": "2025-04-14"
-    },
-    {
-      "id": "3",
-      "title": "Premier article",
-      "content": "Ceci est le contenu de mon premier article",
-      "date": "2025-04-14"
-    },
-    {
-      "id": "3",
-      "title": "Premier article",
-      "content": "Ceci est le contenu de mon premier article",
-      "date": "2025-04-14"
-    },
-    {
-      "id": "3",
-      "title": "Premier article",
-      "content": "Ceci est le contenu de mon premier article",
-      "date": "2025-04-14"
-    },
-    {
-      "id": "3",
-      "title": "Premier article",
-      "content": "Ceci est le contenu de mon premier article",
-      "date": "2025-04-14"
-    },
-    {
-      "id": "3",
-      "title": "Premier article",
-      "content": "Ceci est le contenu de mon premier article",
-      "date": "2025-04-14"
-    },
-    {
-      "id": "3",
-      "title": "Premier article",
-      "content": "Ceci est le contenu de mon premier article",
-      "date": "2025-04-14"
-    }
+   
   ]
   
